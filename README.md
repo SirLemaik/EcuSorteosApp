@@ -69,7 +69,7 @@ Las contribuciones a **EcuSorteos App** están bienvenidas. Si deseas contribuir
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia de Uso de Software - Ecuador](LICENSE), propiedad de **Koelhos Group LLC**.
+Este proyecto está bajo la [Licencia de Uso de Software - Ecuador](LICENSE.md), propiedad de **Koelhos Group LLC**.
 
 ## Contacto
 
